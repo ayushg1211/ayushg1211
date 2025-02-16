@@ -3,13 +3,13 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Web Development Projects**
+- 🔭 I’m currently working on **Fullstack Projects**
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently learning **Spring-Boot**
 
-- 🤝 I’m looking for help with **Frontend Web Development Job Recommendation**
+- 🤝 I’m looking for help with **Frontend, Backend and FullStack Job Openings**
 
-- 💬 Ask me about **HTML, Javascript, CSS, React.JS, Tailwind CSS, Next.JS, Typescript, Redux**
+- 💬 Ask me about **React.JS, Javascript, Next.JS, Redux-Toolkit, HTML, CSS, Tailwind CSS, Java, Hibernate, JPA, JDBC, SERVLET**
 
 - 📫 How to reach me **ayushgoel1211@gmail.com**
 
